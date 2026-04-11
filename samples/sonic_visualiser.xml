@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sonic-visualiser>
+<sv>
+<data>
+  <model id="5" name="Examination Of Time (Synthsoldier Remix).mp3" sampleRate="44100" start="0" end="11361647" type="wavefile" file="d:/一些文件/音乐/其他/Examination Of Time (Synthsoldier Remix).mp3" mainModel="true"/>
+  <playparameters mute="false" pan="0" gain="1" clipId="" model="5">
+  </playparameters>
+  <model id="7" name="" sampleRate="44100" start="71168" end="380033" type="sparse" dimensions="1" resolution="1" notifyOnAdd="true" dataset="6" />
+  <dataset id="6" dimensions="1">
+    <point frame="71168" label="7.2" />
+    <point frame="80528" label="4.2" />
+    <point frame="89040" label="4.3" />
+    <point frame="97776" label="4.4" />
+    <point frame="106624" label="5.1" />
+    <point frame="115472" label="5.2" />
+    <point frame="124320" label="5.3" />
+    <point frame="133168" label="5.4" />
+    <point frame="142016" label="6.1" />
+    <point frame="150864" label="6.2" />
+    <point frame="159712" label="6.3" />
+    <point frame="168560" label="6.4" />
+    <point frame="177632" label="7.1" />
+    <point frame="186112" label="1.1" />
+    <point frame="195200" label="1.2" />
+    <point frame="203904" label="1.3" />
+    <point frame="213248" label="1.4" />
+    <point frame="221440" label="2.1" />
+    <point frame="230144" label="2.2" />
+    <point frame="238976" label="2.3" />
+    <point frame="247552" label="2.4" />
+    <point frame="256640" label="3.1" />
+    <point frame="265344" label="3.2" />
+    <point frame="274432" label="3.3" />
+    <point frame="283264" label="3.4" />
+    <point frame="291840" label="4.1" />
+    <point frame="300544" label="4.2" />
+    <point frame="309632" label="4.3" />
+    <point frame="318976" label="4.4" />
+    <point frame="327680" label="5.1" />
+    <point frame="336128" label="5.2" />
+    <point frame="344576" label="5.3" />
+    <point frame="353536" label="5.4" />
+    <point frame="362624" label="6.1" />
+    <point frame="371456" label="6.2" />
+    <point frame="380032" label="6.3" />
+  </dataset>
+  <playparameters mute="true" pan="0" gain="1" clipId="silent" model="7">
+    <plugin identifier="sample_player" program="silent"/>
+  </playparameters>
+  <model id="9" name="" sampleRate="44100" start="353536" end="11150017" type="sparse" dimensions="1" resolution="1" notifyOnAdd="true" dataset="8" />
+  <dataset id="8" dimensions="1">
+    <point frame="353536" label="6.4" />
+    <point frame="389088" label="7.2" />
+    <point frame="424224" label="9.2" />
+    <point frame="459504" label="9.3" />
+    <point frame="494928" label="9.4" />
+    <point frame="529920" label="10.1" />
+    <point frame="565776" label="10.2" />
+    <point frame="600768" label="10.4" />
+    <point frame="636096" label="11.1" />
+    <point frame="671616" label="11.3" />
+    <point frame="706560" label="12.1" />
+    <point frame="741888" label="12.4" />
+    <point frame="777312" label="1.1" />
+    <point frame="812304" label="1.2" />
+    <point frame="847728" label="1.3" />
+    <point frame="883200" label="1.4" />
+    <point frame="918288" label="2.1" />
+    <point frame="953680" label="2.2" />
+    <point frame="988960" label="2.3" />
+    <point frame="1024416" label="2.4" />
+    <point frame="1059408" label="3.1" />
+    <point frame="1094688" label="3.2" />
+    <point frame="1129824" label="3.3" />
+    <point frame="1164960" label="3.4" />
+    <point frame="1174240" label="4.1" />
+    <point frame="1183104" label="4.2" />
+    <point frame="1191840" label="4.3" />
+    <point frame="1200816" label="4.4" />
+    <point frame="1235664" label="5.1" />
+    <point frame="1271088" label="5.2" />
+    <point frame="1306800" label="5.3" />
+    <point frame="1341648" label="5.4" />
+    <point frame="1376928" label="6.1" />
+    <point frame="1412496" label="6.2" />
+    <point frame="1448064" label="6.3" />
+    <point frame="1483008" label="6.4" />
+    <point frame="1517952" label="7.1" />
+    <point frame="1553280" label="7.2" />
+    <point frame="1588608" label="7.3" />
+    <point frame="1624032" label="7.4" />
+    <point frame="1659456" label="8.1" />
+    <point frame="1694080" label="8.2" />
+    <point frame="1729920" label="8.3" />
+    <point frame="1764864" label="8.4" />
+    <point frame="2047248" label="3.4" />
+    <point frame="2073792" label="4.1" />
+    <point frame="2091136" label="4.2" />
+    <point frame="2117888" label="4.4" />
+    <point frame="2144160" label="5.3" />
+    <point frame="2162048" label="5.4" />
+    <point frame="2188000" label="6.1" />
+    <point frame="2215040" label="6.2" />
+    <point frame="2232800" label="6.3" />
+    <point frame="2329440" label="9.1" />
+    <point frame="2347200" label="9.2" />
+    <point frame="2364600" label="9.3" />
+    <point frame="2382352" label="9.4" />
+    <point frame="2400048" label="10.1" />
+    <point frame="2417968" label="10.2" />
+    <point frame="2435272" label="10.3" />
+    <point frame="2453024" label="10.4" />
+    <point frame="2470608" label="11.1" />
+    <point frame="2488416" label="11.2" />
+    <point frame="2505944" label="11.3" />
+    <point frame="2523472" label="11.4" />
+    <point frame="2541336" label="12.1" />
+    <point frame="2558864" label="12.2" />
+    <point frame="2576728" label="12.3" />
+    <point frame="2594256" label="12.4" />
+    <point frame="2612008" label="13.1" />
+    <point frame="2629424" label="13.2" />
+    <point frame="2647008" label="13.3" />
+    <point frame="2664760" label="13.4" />
+    <point frame="2682288" label="14.1" />
+    <point frame="2700096" label="14.2" />
+    <point frame="2717568" label="14.3" />
+    <point frame="2735432" label="14.4" />
+    <point frame="2752680" label="15.1" />
+    <point frame="2770656" label="15.2" />
+    <point frame="2787960" label="15.3" />
+    <point frame="2805712" label="15.4" />
+    <point frame="2893968" label="16.1" />
+    <point frame="2911392" label="16.2" />
+    <point frame="2929320" label="16.3" />
+    <point frame="2946888" label="16.4" />
+    <point frame="2964816" label="17.1" />
+    <point frame="2982168" label="17.2" />
+    <point frame="2999808" label="17.3" />
+    <point frame="3017520" label="17.4" />
+    <point frame="3035088" label="18.1" />
+    <point frame="3052800" label="18.2" />
+    <point frame="3070296" label="18.3" />
+    <point frame="3088152" label="18.4" />
+    <point frame="3105648" label="19.1" />
+    <point frame="3123216" label="19.2" />
+    <point frame="3140928" label="19.3" />
+    <point frame="3158496" label="19.4" />
+    <point frame="3176424" label="20.1" />
+    <point frame="3193992" label="20.2" />
+    <point frame="3211632" label="20.3" />
+    <point frame="3229128" label="20.4" />
+    <point frame="3246840" label="21.1" />
+    <point frame="3264480" label="21.2" />
+    <point frame="3282336" label="21.3" />
+    <point frame="3299760" label="21.4" />
+    <point frame="3317688" label="22.1" />
+    <point frame="3335040" label="22.2" />
+    <point frame="3352608" label="22.3" />
+    <point frame="3370248" label="22.4" />
+    <point frame="3379392" label="23.1" />
+    <point frame="3383568" label="23.2" />
+    <point frame="3388320" label="23.3" />
+    <point frame="3406032" label="23.4" />
+    <point frame="3423312" label="24.1" />
+    <point frame="3440640" label="24.2" />
+    <point frame="3459072" label="24.3" />
+    <point frame="3476256" label="24.4" />
+    <point frame="3494016" label="25.1" />
+    <point frame="3511584" label="25.2" />
+    <point frame="3529584" label="25.3" />
+    <point frame="3547712" label="25.4" />
+    <point frame="3565856" label="26.1" />
+    <point frame="3583776" label="26.2" />
+    <point frame="3602032" label="26.3" />
+    <point frame="3620400" label="26.4" />
+    <point frame="3638992" label="27.1" />
+    <point frame="3657808" label="27.2" />
+    <point frame="3677072" label="27.3" />
+    <point frame="3696336" label="27.4" />
+    <point frame="3715920" label="28.1" />
+    <point frame="3735808" label="28.2" />
+    <point frame="3756240" label="28.3" />
+    <point frame="3776640" label="28.4" />
+    <point frame="3797312" label="29.1" />
+    <point frame="3818624" label="29.2" />
+    <point frame="3839904" label="29.3" />
+    <point frame="3861872" label="29.4" />
+    <point frame="3883824" label="30.1" />
+    <point frame="3906336" label="30.2" />
+    <point frame="3929184" label="30.3" />
+    <point frame="3952368" label="30.4" />
+    <point frame="3976000" label="31.1" />
+    <point frame="4000128" label="31.2" />
+    <point frame="4126240" label="1.1" />
+    <point frame="4152312" label="1.2" />
+    <point frame="4179264" label="1.3" />
+    <point frame="4205952" label="1.4" />
+    <point frame="4232144" label="1.5" />
+    <point frame="4258560" label="2.1" />
+    <point frame="4285248" label="2.2" />
+    <point frame="4311936" label="2.3" />
+    <point frame="4324608" label="2.4" />
+    <point frame="4338048" label="3.1" />
+    <point frame="4364416" label="3.2" />
+    <point frame="4390656" label="3.3" />
+    <point frame="4417152" label="3.4" />
+    <point frame="4443712" label="4.1" />
+    <point frame="4470272" label="4.2" />
+    <point frame="4496640" label="4.3" />
+    <point frame="4523360" label="4.4" />
+    <point frame="4543200" label="5.1" />
+    <point frame="4549920" label="5.2" />
+    <point frame="4575984" label="5.3" />
+    <point frame="4602752" label="5.4" />
+    <point frame="4629248" label="6.1" />
+    <point frame="4655504" label="6.2" />
+    <point frame="4681984" label="6.3" />
+    <point frame="4708480" label="6.4" />
+    <point frame="4735104" label="7.1" />
+    <point frame="4748032" label="7.2" />
+    <point frame="4761472" label="7.3" />
+    <point frame="4788000" label="7.4" />
+    <point frame="4814208" label="8.1" />
+    <point frame="4840576" label="8.2" />
+    <point frame="4867344" label="8.3" />
+    <point frame="4893440" label="8.4" />
+    <point frame="4920064" label="9.1" />
+    <point frame="4933152" label="9.2" />
+    <point frame="4946832" label="9.3" />
+    <point frame="4959648" label="9.4" />
+    <point frame="4972416" label="10.1" />
+    <point frame="4999392" label="10.2" />
+    <point frame="5025408" label="10.3" />
+    <point frame="5050656" label="10.4" />
+    <point frame="5076096" label="11.1" />
+    <point frame="5100096" label="11.2" />
+    <point frame="5125440" label="11.3" />
+    <point frame="5149248" label="11.4" />
+    <point frame="5160960" label="12.1" />
+    <point frame="5172480" label="12.2" />
+    <point frame="5195904" label="12.3" />
+    <point frame="5218752" label="12.4" />
+    <point frame="5241824" label="13.1" />
+    <point frame="5264064" label="13.2" />
+    <point frame="5285952" label="13.3" />
+    <point frame="5308224" label="13.4" />
+    <point frame="5329152" label="14.1" />
+    <point frame="5345312" label="14.2" />
+    <point frame="5351360" label="14.3" />
+    <point frame="5372192" label="14.4" />
+    <point frame="5392576" label="15.1" />
+    <point frame="5413408" label="15.2" />
+    <point frame="5433120" label="15.3" />
+    <point frame="5453376" label="15.4" />
+    <point frame="5473728" label="16.1" />
+    <point frame="5492928" label="16.2" />
+    <point frame="5512512" label="16.3" />
+    <point frame="5531456" label="16.4" />
+    <point frame="5550608" label="17.1" />
+    <point frame="5569312" label="17.2" />
+    <point frame="5587680" label="17.3" />
+    <point frame="5605936" label="17.4" />
+    <point frame="5624080" label="18.1" />
+    <point frame="5632928" label="18.2" />
+    <point frame="5641888" label="18.3" />
+    <point frame="5650736" label="18.4" />
+    <point frame="5659696" label="19.1" />
+    <point frame="5677056" label="19.2" />
+    <point frame="5694816" label="19.3" />
+    <point frame="5712768" label="19.4" />
+    <point frame="5730048" label="20.1" />
+    <point frame="5748096" label="20.2" />
+    <point frame="5765184" label="20.3" />
+    <point frame="5783136" label="20.4" />
+    <point frame="5791872" label="21.1" />
+    <point frame="5800704" label="21.2" />
+    <point frame="5818656" label="21.3" />
+    <point frame="5836032" label="21.4" />
+    <point frame="5853504" label="22.1" />
+    <point frame="5871264" label="22.2" />
+    <point frame="5888832" label="22.3" />
+    <point frame="5906592" label="22.4" />
+    <point frame="5941600" label="23.1" />
+    <point frame="6506400" label="23.2" />
+    <point frame="6524640" label="23.3" />
+    <point frame="6550656" label="23.4" />
+    <point frame="6559488" label="24.1" />
+    <point frame="6563616" label="24.2" />
+    <point frame="6576960" label="24.3" />
+    <point frame="6594720" label="24.4" />
+    <point frame="6621440" label="25.1" />
+    <point frame="6647360" label="25.2" />
+    <point frame="6664896" label="25.3" />
+    <point frame="6691680" label="25.4" />
+    <point frame="6699888" label="26.1" />
+    <point frame="6705216" label="26.2" />
+    <point frame="6718208" label="26.3" />
+    <point frame="6735888" label="26.4" />
+    <point frame="6762384" label="27.1" />
+    <point frame="6771024" label="27.2" />
+    <point frame="6788736" label="27.3" />
+    <point frame="6806240" label="27.4" />
+    <point frame="6832640" label="28.1" />
+    <point frame="6841600" label="28.2" />
+    <point frame="6846400" label="28.3" />
+    <point frame="6859200" label="28.4" />
+    <point frame="6877280" label="29.1" />
+    <point frame="6903520" label="29.2" />
+    <point frame="6912000" label="29.3" />
+    <point frame="6929920" label="29.4" />
+    <point frame="6947680" label="30.1" />
+    <point frame="6973600" label="30.2" />
+    <point frame="6982864" label="30.3" />
+    <point frame="6987120" label="30.4" />
+    <point frame="7000448" label="31.1" />
+    <point frame="7018848" label="31.2" />
+    <point frame="7044480" label="31.3" />
+    <point frame="7052960" label="31.4" />
+    <point frame="7070832" label="32.1" />
+    <point frame="7635456" label="21.3" />
+    <point frame="7653168" label="21.4" />
+    <point frame="7670664" label="22.1" />
+    <point frame="7688520" label="22.3" />
+    <point frame="7706088" label="22.4" />
+    <point frame="7723584" label="23.2" />
+    <point frame="7741008" label="23.3" />
+    <point frame="7759152" label="24.1" />
+    <point frame="7776360" label="24.3" />
+    <point frame="7793928" label="25.1" />
+    <point frame="7811856" label="25.2" />
+    <point frame="7829352" label="25.4" />
+    <point frame="7846920" label="26.1" />
+    <point frame="7864848" label="26.3" />
+    <point frame="7882416" label="27.1" />
+    <point frame="7900200" label="27.2" />
+    <point frame="7917480" label="27.3" />
+    <point frame="7935264" label="28.1" />
+    <point frame="7952832" label="28.4" />
+    <point frame="7970544" label="29.1" />
+    <point frame="7988160" label="29.3" />
+    <point frame="8005680" label="30.2" />
+    <point frame="8023600" label="30.3" />
+    <point frame="8041360" label="31.1" />
+    <point frame="8058720" label="31.4" />
+    <point frame="8076480" label="32.1" />
+    <point frame="8094080" label="32.3" />
+    <point frame="8111680" label="33.1" />
+    <point frame="8199744" label="32.2" />
+    <point frame="8217600" label="32.3" />
+    <point frame="8235264" label="32.4" />
+    <point frame="8252544" label="33.1" />
+    <point frame="8270400" label="33.2" />
+    <point frame="8287680" label="33.3" />
+    <point frame="8305728" label="33.4" />
+    <point frame="8323584" label="34.1" />
+    <point frame="8327616" label="34.2" />
+    <point frame="8332032" label="34.3" />
+    <point frame="8336640" label="34.4" />
+    <point frame="8341056" label="35.1" />
+    <point frame="8358720" label="35.2" />
+    <point frame="8376576" label="35.3" />
+    <point frame="8394240" label="35.4" />
+    <point frame="8407104" label="36.1" />
+    <point frame="8411712" label="36.2" />
+    <point frame="8429184" label="36.3" />
+    <point frame="8446464" label="36.4" />
+    <point frame="8482368" label="37.1" />
+    <point frame="8499840" label="37.2" />
+    <point frame="8517120" label="37.3" />
+    <point frame="8534976" label="37.4" />
+    <point frame="8544000" label="38.1" />
+    <point frame="8552640" label="38.2" />
+    <point frame="8570496" label="38.3" />
+    <point frame="8596608" label="38.4" />
+    <point frame="8605248" label="39.1" />
+    <point frame="8609856" label="39.2" />
+    <point frame="8614272" label="39.3" />
+    <point frame="8623104" label="39.4" />
+    <point frame="8641344" label="40.1" />
+    <point frame="8658624" label="40.2" />
+    <point frame="8676480" label="40.3" />
+    <point frame="8689536" label="40.4" />
+    <point frame="8694336" label="41.1" />
+    <point frame="8707200" label="41.2" />
+    <point frame="8720640" label="41.3" />
+    <point frame="8733696" label="41.4" />
+    <point frame="8764416" label="42.1" />
+    <point frame="8782080" label="42.2" />
+    <point frame="8799744" label="42.3" />
+    <point frame="8817408" label="42.4" />
+    <point frame="8888000" label="43.1" />
+    <point frame="8892160" label="43.2" />
+    <point frame="8896640" label="43.3" />
+    <point frame="8900992" label="43.4" />
+    <point frame="8905472" label="44.1" />
+    <point frame="8923264" label="44.2" />
+    <point frame="8940800" label="44.3" />
+    <point frame="8958400" label="44.4" />
+    <point frame="8971456" label="45.1" />
+    <point frame="8976128" label="45.2" />
+    <point frame="8993536" label="45.3" />
+    <point frame="9011392" label="45.4" />
+    <point frame="9046848" label="46.1" />
+    <point frame="9064160" label="46.2" />
+    <point frame="9082080" label="46.3" />
+    <point frame="9099264" label="46.4" />
+    <point frame="9112608" label="47.1" />
+    <point frame="9117216" label="47.2" />
+    <point frame="9134880" label="47.3" />
+    <point frame="9161088" label="47.4" />
+    <point frame="9165408" label="48.1" />
+    <point frame="9170016" label="48.2" />
+    <point frame="9178752" label="48.3" />
+    <point frame="9187392" label="48.4" />
+    <point frame="9205248" label="49.1" />
+    <point frame="9222624" label="49.2" />
+    <point frame="9240672" label="49.3" />
+    <point frame="9257856" label="49.4" />
+    <point frame="9271584" label="50.1" />
+    <point frame="9284800" label="50.2" />
+    <point frame="9298128" label="50.3" />
+    <point frame="9328704" label="50.4" />
+    <point frame="9851040" label="51.1" />
+    <point frame="10084608" label="51.2" />
+    <point frame="10105344" label="51.3" />
+    <point frame="10119456" label="51.4" />
+    <point frame="10140192" label="52.1" />
+    <point frame="10161312" label="52.2" />
+    <point frame="10175136" label="52.3" />
+    <point frame="10195584" label="52.4" />
+    <point frame="10216128" label="53.1" />
+    <point frame="10229376" label="53.2" />
+    <point frame="10303104" label="53.3" />
+    <point frame="10316352" label="53.4" />
+    <point frame="10329536" label="54.1" />
+    <point frame="10342720" label="54.2" />
+    <point frame="10355968" label="54.3" />
+    <point frame="10369216" label="54.4" />
+    <point frame="10382464" label="55.1" />
+    <point frame="10395840" label="55.2" />
+    <point frame="10408832" label="55.3" />
+    <point frame="10422208" label="55.4" />
+    <point frame="10435456" label="56.1" />
+    <point frame="10448512" label="56.2" />
+    <point frame="10461952" label="56.3" />
+    <point frame="10475008" label="56.4" />
+    <point frame="10488320" label="57.1" />
+    <point frame="10501440" label="57.2" />
+    <point frame="10514688" label="57.3" />
+    <point frame="10528000" label="57.4" />
+    <point frame="10541248" label="58.1" />
+    <point frame="10554560" label="58.2" />
+    <point frame="10568000" label="58.3" />
+    <point frame="10580864" label="58.4" />
+    <point frame="10594112" label="59.1" />
+    <point frame="10607360" label="59.2" />
+    <point frame="10620608" label="59.3" />
+    <point frame="10633920" label="59.4" />
+    <point frame="10647232" label="60.1" />
+    <point frame="10660352" label="60.2" />
+    <point frame="10726352" label="60.3" />
+    <point frame="10740016" label="60.4" />
+    <point frame="10752784" label="61.1" />
+    <point frame="10766112" label="61.2" />
+    <point frame="10779440" label="61.3" />
+    <point frame="10792768" label="61.4" />
+    <point frame="10805872" label="62.1" />
+    <point frame="10818976" label="62.2" />
+    <point frame="10825920" label="62.3" />
+    <point frame="10829056" label="62.4" />
+    <point frame="10832080" label="63.1" />
+    <point frame="10845408" label="63.2" />
+    <point frame="10858624" label="63.3" />
+    <point frame="10872064" label="63.4" />
+    <point frame="10885392" label="64.1" />
+    <point frame="10938024" label="64.2" />
+    <point frame="10951344" label="64.3" />
+    <point frame="10964664" label="64.4" />
+    <point frame="10977984" label="65.1" />
+    <point frame="10991160" label="65.2" />
+    <point frame="11004192" label="65.3" />
+    <point frame="11017440" label="65.4" />
+    <point frame="11030688" label="66.1" />
+    <point frame="11044008" label="66.2" />
+    <point frame="11057256" label="66.3" />
+    <point frame="11070432" label="66.4" />
+    <point frame="11083536" label="67.1" />
+    <point frame="11150016" label="67.2" />
+  </dataset>
+  <playparameters mute="false" pan="0" gain="1" clipId="silent" model="9">
+    <plugin identifier="sample_player" program="silent"/>
+  </playparameters>
+  <model id="11" name="" sampleRate="44100" start="385840" end="11120481" type="sparse" dimensions="1" resolution="1" notifyOnAdd="true" dataset="10" />
+  <dataset id="10" dimensions="1">
+    <point frame="385840" label="I would" />
+    <point frame="391216" label="like" />
+    <point frame="403200" label="to" />
+    <point frame="413696" label="continue" />
+    <point frame="436000" label="with" />
+    <point frame="442880" label="an examination" />
+    <point frame="571984" label="of time" />
+    <point frame="1756000" label="from the" />
+    <point frame="1764864" label="moment" />
+    <point frame="1781600" label="we" />
+    <point frame="1786080" label="enter" />
+    <point frame="1801920" label="this" />
+    <point frame="1813280" label="life" />
+    <point frame="1829440" label="we" />
+    <point frame="1835680" label="are" />
+    <point frame="1845600" label="in" />
+    <point frame="1852800" label="the" />
+    <point frame="1861440" label="flow of it" />
+    <point frame="1897472" label="(we are in the flow of it)" />
+    <point frame="1967616" label="((we are in the flow of it))" />
+    <point frame="2036480" label="We measure" />
+    <point frame="2047248" label="it" />
+    <point frame="2070720" label="and we mock" />
+    <point frame="2091136" label="it" />
+    <point frame="2179680" label="we" />
+    <point frame="2188000" label="cannot" />
+    <point frame="2197440" label="defy it" />
+    <point frame="2289920" label="(TIME)" />
+    <point frame="3449088" label="from the" />
+    <point frame="3459072" label="moment" />
+    <point frame="3476256" label="we enter" />
+    <point frame="3497424" label="this" />
+    <point frame="3507056" label="life" />
+    <point frame="3520608" label="we" />
+    <point frame="3529584" label="are" />
+    <point frame="3547712" label="in the flow of it" />
+    <point frame="3628352" label="we" />
+    <point frame="3634848" label="cannot" />
+    <point frame="3643344" label="defy it" />
+    <point frame="3703968" label="cannot" />
+    <point frame="3715920" label="even" />
+    <point frame="3725856" label="speed it up" />
+    <point frame="3756240" label="or" />
+    <point frame="3823056" label="slow it" />
+    <point frame="3839904" label="down" />
+    <point frame="4042512" label="or" />
+    <point frame="4048272" label="can we?" />
+    <point frame="5690736" label="I would" />
+    <point frame="5698224" label="like" />
+    <point frame="5705568" label="to" />
+    <point frame="5717952" label="continue" />
+    <point frame="5736672" label="with" />
+    <point frame="5742288" label="an examination" />
+    <point frame="5877936" label="of time" />
+    <point frame="7052960" label="from" />
+    <point frame="7059040" label="the moment" />
+    <point frame="7085920" label="we" />
+    <point frame="7091776" label="enter" />
+    <point frame="7101440" label="this" />
+    <point frame="7115040" label="life" />
+    <point frame="7136448" label="we" />
+    <point frame="7141882" label="are" />
+    <point frame="7151872" label="in" />
+    <point frame="7156736" label="the" />
+    <point frame="7167616" label="flow of it" />
+    <point frame="7247232" label="we measure" />
+    <point frame="7259280" label="it" />
+    <point frame="7277120" label="and we mock" />
+    <point frame="7300048" label="it" />
+    <point frame="7352576" label="we" />
+    <point frame="7357312" label="cannot" />
+    <point frame="7367680" label="defy it" />
+    <point frame="7457568" label="cannot" />
+    <point frame="7469472" label="even" />
+    <point frame="7479840" label="speed it up" />
+    <point frame="7511680" label="or" />
+    <point frame="7582464" label="slow it" />
+    <point frame="7599744" label="down" />
+    <point frame="8128800" label="(we are in the flow of it)" />
+    <point frame="9346752" label="I would" />
+    <point frame="9353472" label="like" />
+    <point frame="9363648" label="to" />
+    <point frame="9374784" label="continue" />
+    <point frame="9398976" label="with" />
+    <point frame="9407232" label="an examination" />
+    <point frame="9511488" label="of time" />
+    <point frame="9584128" label="from the" />
+    <point frame="9595008" label="moment" />
+    <point frame="9611040" label="we" />
+    <point frame="9616512" label="enter" />
+    <point frame="9632400" label="this" />
+    <point frame="9643200" label="life" />
+    <point frame="9659616" label="we" />
+    <point frame="9664896" label="are" />
+    <point frame="9672960" label="in the flow of it" />
+    <point frame="9723616" label="we" />
+    <point frame="9728544" label="cannot" />
+    <point frame="9739968" label="defy it" />
+    <point frame="9808512" label="or" />
+    <point frame="9814336" label="can we?" />
+    <point frame="10273536" label="(TIME)" />
+    <point frame="11120480" label="(TIME)" />
+  </dataset>
+  <playparameters mute="false" pan="0" gain="1" clipId="silent" model="11">
+    <plugin identifier="sample_player" program="silent"/>
+  </playparameters>
+  <model id="13" name="" sampleRate="44100" start="636096" end="5587681" type="sparse" dimensions="1" resolution="1" notifyOnAdd="true" dataset="12" />
+  <dataset id="12" dimensions="1">
+    <point frame="636096" label="first main lead" />
+    <point frame="671616" label="11.4" />
+    <point frame="706560" label="12.2" />
+    <point frame="724096" label="12.3" />
+    <point frame="741888" label="13.1" />
+    <point frame="759840" label="15.4" />
+    <point frame="865120" label="16.1" />
+    <point frame="883200" label="16.2" />
+    <point frame="900720" label="16.3" />
+    <point frame="1006560" label="16.4" />
+    <point frame="1024416" label="17.1" />
+    <point frame="1042272" label="17.2" />
+    <point frame="1129824" label="17.3" />
+    <point frame="1164960" label="17.4" />
+    <point frame="1183104" label="18.1" />
+    <point frame="1200816" label="18.2" />
+    <point frame="1235664" label="18.3" />
+    <point frame="1271088" label="18.4" />
+    <point frame="1289232" label="19.1" />
+    <point frame="1306800" label="19.2" />
+    <point frame="1324224" label="19.3" />
+    <point frame="1412496" label="19.4" />
+    <point frame="1430064" label="20.1" />
+    <point frame="1448064" label="20.2" />
+    <point frame="1465488" label="20.3" />
+    <point frame="1571040" label="20.4" />
+    <point frame="1588608" label="21.1" />
+    <point frame="1606752" label="21.2" />
+    <point frame="1624032" label="21.3" />
+    <point frame="1694080" label="21.4" />
+    <point frame="1764864" label="22.1" />
+    <point frame="2893968" label="1.1" />
+    <point frame="2911392" label="1.2" />
+    <point frame="2929320" label="1.3" />
+    <point frame="2942640" label="7.2" />
+    <point frame="3035088" label="2.3" />
+    <point frame="3052800" label="2.4" />
+    <point frame="3070296" label="3.1" />
+    <point frame="3083520" label="3.2" />
+    <point frame="3176424" label="4.3" />
+    <point frame="3193992" label="4.4" />
+    <point frame="3211632" label="5.1" />
+    <point frame="3224736" label="5.2" />
+    <point frame="3317688" label="6.2" />
+    <point frame="3335040" label="6.3" />
+    <point frame="3352608" label="6.4" />
+    <point frame="3365248" label="7.1" />
+    <point frame="4152312" label="22.2" />
+    <point frame="4166064" label="22.3" />
+    <point frame="4192608" label="22.4" />
+    <point frame="4232144" label="23.1" />
+    <point frame="4245472" label="23.2" />
+    <point frame="4271792" label="23.3" />
+    <point frame="4298560" label="23.4" />
+    <point frame="4364416" label="24.1" />
+    <point frame="4377968" label="24.2" />
+    <point frame="4404288" label="24.3" />
+    <point frame="4443712" label="24.4" />
+    <point frame="4457264" label="25.1" />
+    <point frame="4483472" label="25.2" />
+    <point frame="4509792" label="25.3" />
+    <point frame="4575984" label="25.4" />
+    <point frame="4589648" label="26.1" />
+    <point frame="4615744" label="26.2" />
+    <point frame="4655504" label="26.3" />
+    <point frame="4668944" label="26.4" />
+    <point frame="4695488" label="27.1" />
+    <point frame="4721696" label="27.2" />
+    <point frame="4788000" label="27.3" />
+    <point frame="4801440" label="27.4" />
+    <point frame="4827424" label="28.1" />
+    <point frame="4867344" label="28.2" />
+    <point frame="4880736" label="28.3" />
+    <point frame="4906656" label="28.4" />
+    <point frame="4933152" label="29.1" />
+    <point frame="4972416" label="29.2" />
+    <point frame="5025408" label="29.3" />
+    <point frame="5076096" label="29.4" />
+    <point frame="5100096" label="30.1" />
+    <point frame="5125440" label="30.2" />
+    <point frame="5149248" label="30.3" />
+    <point frame="5264064" label="30.4" />
+    <point frame="5285952" label="31.1" />
+    <point frame="5308224" label="31.2" />
+    <point frame="5329152" label="31.3" />
+    <point frame="5453376" label="31.4" />
+    <point frame="5473728" label="32.1" />
+    <point frame="5492928" label="32.2" />
+    <point frame="5512512" label="32.3" />
+    <point frame="5587680" label="32.4" />
+  </dataset>
+  <playparameters mute="false" pan="0" gain="1" clipId="silent" model="13">
+    <plugin identifier="sample_player" program="silent"/>
+  </playparameters>
+  <model id="15" name="" sampleRate="44100" start="0" end="11255041" type="sparse" dimensions="1" resolution="1" notifyOnAdd="true" dataset="14" />
+  <dataset id="14" dimensions="1">
+    <point frame="0" label=" the beginning" />
+    <point frame="16640" label="Start work" />
+    <point frame="62560" label="recording noise＆intro" />
+    <point frame="1738368" label="18.1" />
+    <point frame="1740744" label="18.2" />
+    <point frame="1743120" label="18.3" />
+    <point frame="1747152" label="18.4" />
+    <point frame="1751688" label="19.1" />
+    <point frame="1756000" label="19.2" />
+    <point frame="1760472" label="19.3" />
+    <point frame="1764864" label="buildup1" />
+    <point frame="1801920" label="3.1" />
+    <point frame="1835680" label="2.4" />
+    <point frame="1871616" label="1.3" />
+    <point frame="1906432" label="1.2" />
+    <point frame="1941504" label="1.4" />
+    <point frame="1976576" label="2.1" />
+    <point frame="2011904" label="2.2" />
+    <point frame="2047248" label="2.3" />
+    <point frame="2082624" label="3.3" />
+    <point frame="2117888" label="4.3" />
+    <point frame="2153344" label="5.2" />
+    <point frame="2188000" label="7.1" />
+    <point frame="2223648" label="6.4" />
+    <point frame="2320320" label="drop1" />
+    <point frame="2638080" label="7.3" />
+    <point frame="2651136" label="7.4" />
+    <point frame="2655744" label="8.1" />
+    <point frame="2660096" label="8.2" />
+    <point frame="2673408" label="8.3" />
+    <point frame="2708864" label="9.1" />
+    <point frame="2712832" label="9.2" />
+    <point frame="2717568" label="9.3" />
+    <point frame="2726280" label="9.4" />
+    <point frame="2730624" label="9.5" />
+    <point frame="2735432" label="10.1" />
+    <point frame="2743920" label="10.2" />
+    <point frame="2779008" label="10.3" />
+    <point frame="2796640" label="10.4" />
+    <point frame="2801008" label="11.1" />
+    <point frame="2805712" label="11.2" />
+    <point frame="2814552" label="11.3" />
+    <point frame="2884960" label="drop1(p2)" />
+    <point frame="2937744" label="1.4" />
+    <point frame="2942640" label="2.1" />
+    <point frame="2955456" label="2.2" />
+    <point frame="3074960" label="4.2" />
+    <point frame="3079200" label="3.3" />
+    <point frame="3083520" label="3.4" />
+    <point frame="3096320" label="4.1" />
+    <point frame="3220416" label="5.3" />
+    <point frame="3224736" label="5.4" />
+    <point frame="3238176" label="6.1" />
+    <point frame="3357440" label="7.3" />
+    <point frame="3361280" label="7.4" />
+    <point frame="3365248" label="8.1" />
+    <point frame="3379392" label="8.2" />
+    <point frame="3449088" label="breakdown" />
+    <point frame="3502688" label="8.4" />
+    <point frame="3507056" label="9.1" />
+    <point frame="3520608" label="9.2" />
+    <point frame="3574704" label="9.3" />
+    <point frame="3579408" label="9.4" />
+    <point frame="3593296" label="10.1" />
+    <point frame="3597328" label="10.2" />
+    <point frame="3643344" label="10.3" />
+    <point frame="3647872" label="10.4" />
+    <point frame="3652800" label="11.1" />
+    <point frame="3667200" label="11.2" />
+    <point frame="3725856" label="11.3" />
+    <point frame="3730944" label="11.4" />
+    <point frame="3745920" label="12.1" />
+    <point frame="3750912" label="12.2" />
+    <point frame="3807664" label="12.3" />
+    <point frame="3812928" label="12.4" />
+    <point frame="3829056" label="13.1" />
+    <point frame="3981568" label="13.2" />
+    <point frame="3987456" label="13.3" />
+    <point frame="3993728" label="13.4" />
+    <point frame="4011904" label="14.1" />
+    <point frame="4086880" label="14.3" />
+    <point frame="4090240" label="14.4" />
+    <point frame="4093600" label="15.1" />
+    <point frame="4099840" label="15.2" />
+    <point frame="4106400" label="15.3" />
+    <point frame="4112480" label="15.4" />
+    <point frame="4119520" label="16.1" />
+    <point frame="4126240" label="break" />
+    <point frame="4972416" label="16.2" />
+    <point frame="5025408" label="16.3" />
+    <point frame="5076096" label="16.4" />
+    <point frame="5125440" label="17.1" />
+    <point frame="5172480" label="17.2" />
+    <point frame="5218752" label="17.3" />
+    <point frame="5264064" label="17.4" />
+    <point frame="5308224" label="1.1" />
+    <point frame="5351360" label="1.2" />
+    <point frame="5392576" label="1.3" />
+    <point frame="5433120" label="1.4" />
+    <point frame="5473728" label="2.1" />
+    <point frame="5512512" label="2.2" />
+    <point frame="5550608" label="2.3" />
+    <point frame="5587680" label="2.4" />
+    <point frame="5624080" label="3.1" />
+    <point frame="5659696" label="3.2" />
+    <point frame="5694816" label="3.3" />
+    <point frame="5730048" label="3.4" />
+    <point frame="5765184" label="4.1" />
+    <point frame="5800704" label="4.2" />
+    <point frame="5836032" label="4.3" />
+    <point frame="5871264" label="4.4" />
+    <point frame="5906592" label="5.1" />
+    <point frame="5959968" label="5.2" />
+    <point frame="5976880" label="5.3" />
+    <point frame="5995248" label="5.4" />
+    <point frame="6012480" label="6.1" />
+    <point frame="6030912" label="6.2" />
+    <point frame="6047808" label="6.3" />
+    <point frame="6065856" label="6.4" />
+    <point frame="6082752" label="7.1" />
+    <point frame="6101568" label="7.2" />
+    <point frame="6119040" label="7.3" />
+    <point frame="6136320" label="7.4" />
+    <point frame="6153280" label="8.1" />
+    <point frame="6171360" label="8.2" />
+    <point frame="6188960" label="8.3" />
+    <point frame="6206880" label="8.4" />
+    <point frame="6224160" label="9.1" />
+    <point frame="6242080" label="9.2" />
+    <point frame="6259360" label="9.3" />
+    <point frame="6277120" label="9.4" />
+    <point frame="6294560" label="10.1" />
+    <point frame="6312800" label="10.2" />
+    <point frame="6329920" label="10.3" />
+    <point frame="6348000" label="10.4" />
+    <point frame="6365120" label="11.1" />
+    <point frame="6383360" label="11.2" />
+    <point frame="6400640" label="11.3" />
+    <point frame="6418080" label="11.4" />
+    <point frame="6435840" label="12.1" />
+    <point frame="6453440" label="12.2" />
+    <point frame="6470560" label="12.3" />
+    <point frame="6489600" label="12.4" />
+    <point frame="7608960" label="19.4" />
+    <point frame="7611048" label="20.1" />
+    <point frame="7613208" label="20.2" />
+    <point frame="7617600" label="20.3" />
+    <point frame="7622136" label="20.4" />
+    <point frame="7626528" label="21.1" />
+    <point frame="7630848" label="21.2" />
+    <point frame="7635456" label="buildup2" />
+    <point frame="7670664" label="22.2" />
+    <point frame="7706088" label="23.1" />
+    <point frame="7741008" label="23.4" />
+    <point frame="7776360" label="24.4" />
+    <point frame="7811856" label="25.3" />
+    <point frame="7846920" label="26.2" />
+    <point frame="7882416" label="26.4" />
+    <point frame="7917480" label="27.4" />
+    <point frame="7935264" label="28.2" />
+    <point frame="7952832" label="28.3" />
+    <point frame="7970544" label="29.2" />
+    <point frame="7988160" label="29.4" />
+    <point frame="8005680" label="30.1" />
+    <point frame="8023600" label="30.4" />
+    <point frame="8041360" label="31.2" />
+    <point frame="8058720" label="31.3" />
+    <point frame="8190784" label="drop2" />
+    <point frame="8764416" label="drop2(p2)" />
+    <point frame="9328704" label="break2" />
+    <point frame="9851040" label="buildup3" />
+    <point frame="9865984" label="13.1" />
+    <point frame="9880576" label="13.2" />
+    <point frame="9896064" label="13.3" />
+    <point frame="9911168" label="13.4" />
+    <point frame="9925888" label="14.1" />
+    <point frame="9940352" label="14.2" />
+    <point frame="9955328" label="14.3" />
+    <point frame="9969664" label="14.4" />
+    <point frame="9984128" label="15.1" />
+    <point frame="9998640" label="15.2" />
+    <point frame="10013472" label="15.3" />
+    <point frame="10027440" label="15.4" />
+    <point frame="10041984" label="16.1" />
+    <point frame="10056240" label="16.2" />
+    <point frame="10070064" label="16.3" />
+    <point frame="10084608" label="16.4" />
+    <point frame="10098592" label="17.1" />
+    <point frame="10112368" label="17.2" />
+    <point frame="10126720" label="17.3" />
+    <point frame="10140192" label="17.4" />
+    <point frame="10154144" label="18.1" />
+    <point frame="10168000" label="18.2" />
+    <point frame="10182160" label="18.3" />
+    <point frame="10195584" label="18.4" />
+    <point frame="10209408" label="19.1" />
+    <point frame="10222752" label="19.2" />
+    <point frame="10236384" label="19.3" />
+    <point frame="10255232" label="19.4" />
+    <point frame="10264832" label="20.1" />
+    <point frame="10296288" label="drop3" />
+    <point frame="10709760" label="drop3(p2)" />
+    <point frame="11255040" label="END" />
+  </dataset>
+  <playparameters mute="false" pan="0" gain="1" clipId="silent" model="15">
+    <plugin identifier="sample_player" program="silent"/>
+  </playparameters>
+  <layer id="16" type="timeruler" name="Ruler" model="5"  colourName="White" colour="#ffffff" darkBackground="true" />
+  <layer id="17" type="waveform" name="Waveform" model="5"  gain="1" showMeans="1" greyscale="1" channelMode="0" channel="-1" scale="0" middleLineHeight="0.5" aggressive="0" autoNormalize="0" oversampling="1" colourName="Bright Blue" colour="#1e96ff" darkBackground="true" />
+  <layer id="18" type="spectrogram" name="Spectrogram" model="5"  channel="-1" windowSize="1024" windowHopLevel="2" oversampling="1" gain="1" threshold="1e-08" minFrequency="0" maxFrequency="22050" colourScale="3" colourRotation="0" frequencyScale="0" frequencyMapping="0" binDisplay="0" smooth="true" opaque="true" colourMap="Green" colourScheme="0" columnNormalization="none" normalizeColumns="false" normalizeVisibleArea="false" />
+  <layer id="19" type="waveform" name="Waveform &lt;2&gt;" model="5"  gain="1" showMeans="1" greyscale="1" channelMode="0" channel="-1" scale="0" middleLineHeight="0.5" aggressive="0" autoNormalize="0" oversampling="1" colourName="Bright Green" colour="#14ff5a" darkBackground="true" />
+  <layer id="20" type="spectrogram" name="Spectrogram &lt;2&gt;" model="5"  channel="-1" windowSize="1024" windowHopLevel="2" oversampling="1" gain="1" threshold="1e-08" minFrequency="0" maxFrequency="15592" colourScale="3" colourRotation="0" frequencyScale="1" frequencyMapping="1" binDisplay="0" smooth="true" opaque="true" colourMap="Green" colourScheme="0" columnNormalization="none" normalizeColumns="false" normalizeVisibleArea="false" />
+  <layer id="0" type="timeinstants" name="Time Instants" model="7"  plotStyle="0" colourName="#ff0004" colour="#ff0004" darkBackground="false"  presentationName="midbass"/>
+  <layer id="1" type="timeinstants" name="Time Instants &lt;3&gt;" model="9"  plotStyle="0" colourName="Black" colour="#000000" darkBackground="false"  presentationName="kickdrum"/>
+  <layer id="2" type="timeinstants" name="Time Instants &lt;2&gt;" model="11"  plotStyle="0" colourName="Bright Blue" colour="#1e96ff" darkBackground="true"  presentationName="vocal"/>
+  <layer id="3" type="timeinstants" name="Time Instants &lt;4&gt;" model="13"  plotStyle="0" colourName="Bright Purple" colour="#e14aff" darkBackground="true"  presentationName="main lead"/>
+  <layer id="21" type="spectrum" name="Spectrum" model="5"  windowSize="4096" windowHopLevel="3" oversampling="1" showPeaks="false"  energyScale="2" samplingMode="1" plotStyle="2" binScale="1" gain="14.1254" threshold="0.000158489" normalize="false" minbin="1" maxbin="2049" fillColourMap="Ice" colourScheme="6"  colourName="Bright Green" colour="#14ff5a" darkBackground="true" />
+  <layer id="22" type="timeruler" name="Ruler &lt;2&gt;" model="5"  colourName="White" colour="#ffffff" darkBackground="true" />
+  <layer id="23" type="timeruler" name="Ruler &lt;3&gt;" model="5"  colourName="White" colour="#ffffff" darkBackground="true" />
+  <layer id="24" type="spectrogram" name="Spectrogram &lt;3&gt;" model="5"  channel="-1" windowSize="8192" windowHopLevel="4" oversampling="1" gain="1" threshold="1e-08" minFrequency="40" maxFrequency="1500" colourScale="0" colourRotation="0" frequencyScale="1" frequencyMapping="2" binDisplay="0" smooth="true" opaque="true" colourMap="Sunset" colourScheme="1" columnNormalization="none" normalizeColumns="false" normalizeVisibleArea="false" />
+  <layer id="4" type="timeinstants" name="Time Instants &lt;5&gt;" model="15"  plotStyle="0" colourName="White" colour="#ffffff" darkBackground="true"  presentationName="Sound effects &amp; secondary lead"/>
+</data>
+<display>
+  <window width="1463" height="843"/>
+  <view centre="11255040" zoom="256" deepZoom="1" followPan="1" followZoom="1" tracking="page"  type="pane" centreLineVisible="1" height="173" >
+    <layer id="16" type="timeruler" name="Ruler" model="5" visible="true"/>
+    <layer id="19" type="waveform" name="Waveform &lt;2&gt;" model="5" visible="true"/>
+  </view>
+  <view centre="11255040" zoom="640" deepZoom="1" followPan="1" followZoom="0" tracking="scroll"  type="pane" centreLineVisible="1" height="200" >
+    <layer id="21" type="spectrum" name="Spectrum" model="5" visible="true"/>
+  </view>
+  <view centre="11255040" zoom="256" deepZoom="1" followPan="1" followZoom="1" tracking="page"  type="pane" centreLineVisible="1" height="324" >
+    <layer id="23" type="timeruler" name="Ruler &lt;3&gt;" model="5" visible="true"/>
+    <layer id="20" type="spectrogram" name="Spectrogram &lt;2&gt;" model="5" visible="true"/>
+    <layer id="0" type="timeinstants" name="Time Instants" model="7" visible="true" presentationName="midbass"/>
+    <layer id="1" type="timeinstants" name="Time Instants &lt;3&gt;" model="9" visible="true" presentationName="kickdrum"/>
+    <layer id="2" type="timeinstants" name="Time Instants &lt;2&gt;" model="11" visible="true" presentationName="vocal"/>
+    <layer id="3" type="timeinstants" name="Time Instants &lt;4&gt;" model="13" visible="true" presentationName="main lead"/>
+    <layer id="4" type="timeinstants" name="Time Instants &lt;5&gt;" model="15" visible="true" presentationName="Sound effects &amp; secondary lead"/>
+  </view>
+</display>
+<selections >
+</selections>
+</sv>

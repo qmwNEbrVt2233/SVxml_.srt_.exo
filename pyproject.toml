@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "media-tools"
+version = "0.1.0"
+description = "CLI toolkit for subtitle, danmaku, AviUtl EXO, Sonic Visualiser, and text animation workflows."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+media-tools = "media_tools.cli:main"
+sv-to-srt = "media_tools.sv_to_srt:main"
+srt-to-exo = "media_tools.srt_to_exo:main"
+srt-to-m7 = "media_tools.srt_to_m7:main"
+exo-upgrade = "media_tools.exo_upgrade:main"
+danmaku-scale = "media_tools.danmaku_scale:main"
+dashed-lines = "media_tools.dashed_lines:main"
+char-scatter = "media_tools.char_scatter:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
